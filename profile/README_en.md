@@ -1,5 +1,5 @@
 
-![PixiCode Logo](pixicode_logo_resized.png)
+![PixiCode Logo](logo.svg)
 
 # Welcome to PixiCode
 
