@@ -3,6 +3,8 @@
 
 # Bienvenue chez PixiCode
 
+![GitHub followers](https://img.shields.io/github/followers/pixicode-dev) ![GitHub Org's stars](https://img.shields.io/github/stars/pixicode-dev)
+
 PixiCode est votre partenaire de confiance pour le développement informatique, spécialisé dans la création de solutions modernes et performantes. Nous offrons une expertise technique solide à des prix compétitifs tout en valorisant la transparence et la flexibilité.
 
 Nous nous engageons à vous fournir un environnement de développement équitable, en travaillant en étroite collaboration avec nos clients pour répondre à leurs besoins uniques. Nos services couvrent :
@@ -12,8 +14,6 @@ Nous nous engageons à vous fournir un environnement de développement équitabl
 - Consulting technique et accompagnement de projets.
 
 ## 🔗 Liens Rapides
-- ![Nombre de Repos](https://img.shields.io/github/search/pixicode-dev/repo?label=Nombre%20de%20Repos&style=for-the-badge)
-- ![Issues Ouvertes](https://img.shields.io/github/issues-raw/pixicode-dev/basketball-mobile?label=Issues%20Ouvertes&style=for-the-badge)
 - [🌐 Visitez notre site web](https://pixicode.dev)
 - [🔗 LinkedIn](https://www.linkedin.com/company/pixicode)
 
